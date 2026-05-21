@@ -16,7 +16,7 @@
   "next": "latest",
   "react": "latest",
   "react-dom": "latest"
-}
+},
   "devDependencies": {
     "autoprefixer": "latest",
     "postcss": "latest",
